@@ -1,7 +1,3 @@
-### ginpika
+Hi, there. Here is ginpika.
 
-Hi, there.
-
-Software Engineer | work with Java & Node.js | ACGN fans | Gamer
-
-Interested in all-in-one lite applications and cloud computing infra software.
+I am a software engineer mainly working with Java and Node.js. Huge ACGN fan and gamer, too.
